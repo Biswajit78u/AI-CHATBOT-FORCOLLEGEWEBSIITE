@@ -1,4 +1,6 @@
 
+
+
 # 🤖 AI Chatbot for College Website
 
 An intelligent AI-powered chatbot for college websites to help students get instant answers about courses, admissions, events, and campus facilities.
@@ -50,7 +52,7 @@ open index.html
 
 ## 📁 Folder Structure
 
-
+```
 AI-CHATBOT-FORCOLLEGEWEBSIITE/
 ├── Backend/
 │   └── app.py
@@ -59,7 +61,7 @@ AI-CHATBOT-FORCOLLEGEWEBSIITE/
 │   ├── styles.css
 │   └── script.js
 └── README.md
-
+```
 
 ## 🔧 Environment Variables
 
@@ -103,5 +105,4 @@ MIT License
 
 ⭐ Star this repo if you find it useful!
 ```
-
 
