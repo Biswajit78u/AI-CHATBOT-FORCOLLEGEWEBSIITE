@@ -96,9 +96,7 @@ Ask questions like:
 **Biswajit78u**
 - GitHub: [@Biswajit78u](https://github.com/Biswajit78u)
 
-## 📄 License
 
-MIT License
 
 ---
 
