@@ -69,7 +69,6 @@ Create `.env` file with:
 - `API_KEY` - Your AI model API key
 - `PORT` - Server port (default: 5000)
 
-⚠️ Never share your `.env` file or commit it to GitHub!
 
 ## 🎯 Usage Examples
 
@@ -104,5 +103,5 @@ MIT License
 ---
 
 ⭐ Star this repo if you find it useful!
-```
+
 
