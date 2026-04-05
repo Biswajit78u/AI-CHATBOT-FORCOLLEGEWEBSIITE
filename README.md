@@ -1,6 +1,4 @@
-Here's the README in plain GitHub code format - just copy everything inside the code block:
 
-```markdown
 # 🤖 AI Chatbot for College Website
 
 An intelligent AI-powered chatbot for college websites to help students get instant answers about courses, admissions, events, and campus facilities.
@@ -52,7 +50,7 @@ open index.html
 
 ## 📁 Folder Structure
 
-```
+
 AI-CHATBOT-FORCOLLEGEWEBSIITE/
 ├── Backend/
 │   └── app.py
@@ -61,7 +59,7 @@ AI-CHATBOT-FORCOLLEGEWEBSIITE/
 │   ├── styles.css
 │   └── script.js
 └── README.md
-```
+
 
 ## 🔧 Environment Variables
 
@@ -106,4 +104,4 @@ MIT License
 ⭐ Star this repo if you find it useful!
 ```
 
-Just copy the entire code block above and paste it into your `README.md` file. That's it! 🎯
+
